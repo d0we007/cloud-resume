@@ -19,5 +19,5 @@ jobs:
         AWS_ACCESS_KEY_ID: AKIA6K2OAHLRECYLVPAQ
         AWS_SECRET_ACCESS_KEY: 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
         AWS_REGION: 'us-east-1'
-        SOURCE_DIR: 'cloud-resume/frontend'
+        SOURCE_DIR: 'frontend'
 
