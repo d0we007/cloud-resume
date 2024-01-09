@@ -1,4 +1,4 @@
-name: Upload frontend
+name: frotend
 
 on:
   workflow_dispatch:
