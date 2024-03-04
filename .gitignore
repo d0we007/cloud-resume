@@ -129,5 +129,5 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-test_suite_analysis/
-managed_context/
+test_suite_analysis
+managed_context
