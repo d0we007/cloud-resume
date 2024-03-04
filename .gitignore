@@ -129,6 +129,6 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-# Other rules...
+# Other rules..
 test_suite_analysis/
 managed_context/
