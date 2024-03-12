@@ -66,7 +66,9 @@ The front-end is a static site with HTML, CSS, and JavaScript, featuring a visit
 - This is how you can deploy a blob storage static site with [GitHub actions.](https://docs.microsoft.com/azure/storage/blobs/storage-blobs-static-site-github-actions)
 - [GitHub Actions documentation](https://docs.github.com/en/actions)
 
-## TO DO
+## TODO 
+- Test code.
+- Leverage Terraform to orchestrate frontend development tasks. 
+- Improve doccumentation on github.
+- Integrate Ansible into CI/CD pipeline to automate infrastructure provisioning and configuration as part of the deployment process.
 
-- Test code
-- Improve doccumentation
